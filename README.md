@@ -1,4 +1,4 @@
-🎓 Education Core System
+#🎓 Education Core System
 A comprehensive, centralized management solution designed to digitize and streamline academic administration for students, teachers, and administrators. This system ensures data consistency, eliminates manual paperwork, and provides real-time tracking of academic and financial records.
 
 🚀 Project Overview
